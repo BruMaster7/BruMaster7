@@ -36,7 +36,7 @@ Hi, I'm **Bruno Rocha**, a passionate Computer Science Teaching student at CERP 
 ## 🛠️ GitHub Projects  
 Here are some of the projects that highlight my skills:  
 
-- 🌐 **[Mnemósine 🦉](https://brumaster7.github.io/Mnemosine/)**: A find the path game using **Javascript** and **A* algorithm**.  
+- 🌐 **[Mnemósine 🦉](https://brumaster7.github.io/Mnemosine/)**: A find the path game using **Javascript** and **"A* algorithm"**.  
 - 💻 **[Korppi Libros 📖🐦‍⬛](https://korppi-libros.vercel.app/)**: "Korppi Libros" is a web application that provides free access to digital books across various genres. Using the Mercado Libre API, it fetches book data dynamically, stores it in a **MongoDB database**, and presents it through a user-friendly interface built with **JavaScript**.  
 - 📊 **[Branch Management System](https://github.com/BruMaster7/sistema_sucursales)**: A **C++** branch management system for maintaining branches and routes. It allows viewing, adding, modifying, or deleting branches/routes, and uses Dijkstra's algorithm for route optimization.  
 
